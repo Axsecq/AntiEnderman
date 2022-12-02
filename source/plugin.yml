@@ -1,0 +1,6 @@
+name: AntiEnderman
+description: Disallows enderman griefing.
+version: 1.0.0
+
+main: syncinus.antienderman.Main
+api-version: 1.19
